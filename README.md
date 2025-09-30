@@ -52,4 +52,4 @@
 
 ---
 
-✨ *“Quick learner, effective team player, and passionate about building technology-driven solutions.”*
+✨ *“Quick learner, effective team player, and passionate about building technology-driven solutions..”*
