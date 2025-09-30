@@ -46,10 +46,10 @@
 
 ---
 
-![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanpathan150150&show_icons=true&theme=radical)  
+![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanpathan-dev&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpathan150150&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayapathan-dev&layout=compact&theme=radical)  
 
 ---
 
-✨ *“Quick learner, effective team player, and passionate about building technology-driven solutions..”*
+✨ *“Quick learner, effective team player, and passionate about building technology-driven solutions.”*
