@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Ayan Pathan 👋
 
-<!--
-**ayanpathan-dev/ayanpathan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Graduate | 🌐 Full-Stack & AR Developer | 🤖 AI/ML Enthusiast | 🚀 Hackathon Winner | Always learning & building  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript  
+- **AR/3D Development:** Unity, Vuforia, Blender  
+
+---
+
+## 📂 Projects
+- **CryptoTrace – Cryptocurrency Fraud Detection System**  
+  ML-based fraud detection system for Bitcoin & Ethereum using Random Forest, APIs, and Tkinter.  
+  🏆 *Smart India Hackathon 2024 – Runner-up (Problem ID: SIH1783)*  
+
+- **Travel Website**  
+  Responsive travel booking website using HTML, CSS, Bootstrap, and JavaScript.  
+
+- **Stock Prediction Website**  
+  Designed front-end UI and assisted in ML model integration.  
+
+- **AR Watch Try-On Application**  
+  UI & 3D design using Unity + Blender for AR-based watch try-on.  
+
+---
+
+## 🏆 Achievements
+- 🥈 **Smart India Hackathon 2024 – 2nd Place** (Crypto Fraud Detection)  
+- 🥉 **ADCET Hackathon 2025 – 3rd Place** (Blockchain & ML Fraud Detection)  
+- 🥇 **Mini-Project Competition – 1st Place** (AR Watch Try-On App)  
+
+---
+
+## 📚 Conferences
+- **ICMREST 2025** – Blockchain Fraud Detection (ML + Analytics)  
+- **NCRAICSIT-24** – AR Watch Try-On (Unity + Vuforia + Blender)  
+
+---
+
+## 🌐 Connect with Me
+📧 Email: [ayanpathan150150@gmail.com](mailto:ayanpathan150150@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ayan-pathan-cse2025](https://www.linkedin.com/in/ayan-pathan-cse2025)  
+
+---
+
+![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanpathan150150&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpathan150150&layout=compact&theme=radical)  
+
+---
+
+✨ *“Quick learner, effective team player, and passionate about building technology-driven solutions.”*
