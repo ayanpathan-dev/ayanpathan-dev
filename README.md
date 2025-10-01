@@ -28,7 +28,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥈 **Smart India Hackathon 2024 – 2nd Place** (Crypto Fraud Detection)  
+- 🥈 **Smart India Hackathon 2024 – Runner Up** (Crypto Fraud Detection)  
 - 🥉 **ADCET Hackathon 2025 – 3rd Place** (Blockchain & ML Fraud Detection)  
 - 🥇 **Mini-Project Competition – 1st Place** (AR Watch Try-On App)  
 
