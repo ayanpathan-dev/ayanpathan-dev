@@ -5,8 +5,8 @@
 ---
 
 ## 🛠 Skills
-- **Languages:** C, C++, Java, Python, JavaScript  
-- **Web Development:** HTML, CSS, Bootstrap, JavaScript  
+- **Languages:** C, C++, Java, Python  
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js
 - **AR/3D Development:** Unity, Vuforia, Blender  
 
 ---
