@@ -24,33 +24,33 @@ Passionate about building scalable web applications, solving real-world problems
 ## 🛠 Tech Stack
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![CSharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![CSharp](https://img.shields.io/badge/CSharp-grey?style=for-the-badge&logo=csharp)
 
 ### Frontend Development
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 
 ### Backend Development
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=springboot)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-blueviolet?style=for-the-badge&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-grey?style=for-the-badge&logo=springboot)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-grey?style=for-the-badge&logo=dotnet)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)
 
 ### AR / 3D Development
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender)
+![Unity](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)
+![Blender](https://img.shields.io/badge/Blender-grey?style=for-the-badge&logo=blender)
 
 ### Tools & Concepts
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-green?style=for-the-badge)
