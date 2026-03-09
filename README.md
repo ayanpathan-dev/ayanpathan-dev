@@ -1,66 +1,97 @@
-# Hi, I'm Ayan Pathan 👋
+<h1 align="center">Hi 👋, I'm Ayan Pathan</h1>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Hackathon Winner</h3>
 
-💻 Computer Science Graduate  
-🌐 Full Stack Developer  
-🤖 Interested in AI/ML & Blockchain  
-🚀 Smart India Hackathon 2024 Runner-Up  
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
+</p>
 
-Passionate about building scalable web applications, solving real-world problems using technology, and continuously learning new tools and frameworks.
-
----
-
-## 🛠 Technical Skills
-
-**Programming Languages**  
-Java, C++, Python, JavaScript, C#, SQL  
-
-**Frontend Development**  
-HTML5, CSS3, Bootstrap, React.js  
-
-**Backend Development**  
-Node.js, Express.js, Spring Boot, ASP.NET Core  
-
-**Database**  
-MySQL  
-
-**AR / 3D Development**  
-Unity, Vuforia, Blender  
-
-**Tools & Concepts**  
-Git, GitHub, REST APIs, MVC Architecture, OOP, DBMS, API Integration, Authentication (JWT)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayanpathan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayanpathan-dev" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 About Me
 
-### CryptoTrace – Cryptocurrency Fraud Detection System
-A real-time cryptocurrency fraud detection tool that analyzes blockchain transactions and identifies suspicious patterns using machine learning.
-
-Tech Stack: Python, ML Libraries, Blockchain APIs, SQLite  
-
-🏆 Smart India Hackathon 2024 – Runner Up (Problem ID: SIH1783)
-
----
-
-### FlavorQuest – Smart Recipe Finder
-A scalable full-stack recipe management application with advanced search, nutrition details, shopping list management, and JWT-based authentication.
-
-Tech Stack: React.js, ASP.NET Core Web API, Spring Boot, Entity Framework, MySQL
+- 🎓 Computer Science Graduate  
+- 🏆 Smart India Hackathon 2024 **Runner-Up**  
+- 💻 Interested in **Full Stack Development, AI/ML & Blockchain**
+- 🌱 Currently learning **Advanced Java & Backend Development**
+- 🤝 Open to collaboration on **Web Development and AI Projects**
 
 ---
 
-### Travel Website
-Responsive travel booking website built using HTML, CSS, Bootstrap, and JavaScript.
+## 🛠 Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![CSharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
+
+### Frontend Development
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=springboot)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-blueviolet?style=for-the-badge&logo=dotnet)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### AR / 3D Development
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender)
+
+### Tools & Concepts
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-green?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Concepts-red?style=for-the-badge)
 
 ---
 
-### Stock Prediction Website
-Web application for stock price prediction with ML model integration and data visualization.
+## 📂 Featured Projects
+
+### 🔍 CryptoTrace – Cryptocurrency Fraud Detection System
+A real-time cryptocurrency fraud detection system that analyzes blockchain transactions and identifies suspicious patterns using machine learning.
+
+**Tech Stack:** Python, Machine Learning, Blockchain APIs, SQLite  
+
+🏆 Smart India Hackathon 2024 – Runner-Up (Problem ID: SIH1783)
 
 ---
 
-### AR Watch Try-On Application
-Augmented Reality application allowing users to virtually try watches using Unity, Vuforia, and Blender.
+### 🍲 FlavorQuest – Smart Recipe Finder
+A full-stack recipe management application with advanced search, ingredient insights, shopping lists, and secure JWT-based authentication.
+
+**Tech Stack:** React.js, ASP.NET Core Web API, Spring Boot, MySQL
+
+---
+
+### ✈ Travel Website
+Responsive travel booking website with modern UI.
+
+**Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+### 📈 Stock Prediction Website
+Web application for stock prediction using machine learning and data visualization.
+
+---
+
+### ⌚ AR Watch Try-On Application
+Augmented reality application allowing users to virtually try watches.
+
+**Tech Stack:** Unity, Vuforia, Blender
 
 ---
 
@@ -74,21 +105,28 @@ Augmented Reality application allowing users to virtually try watches using Unit
 
 ## 📚 Conferences & Publications
 
-ICMREST 2025 – Blockchain Fraud Detection using Machine Learning  
-NCRAICSIT-24 – AR Watch Try-On using Unity & Vuforia
+📄 **ICMREST 2025** – Blockchain Fraud Detection using Machine Learning  
+📄 **NCRAICSIT-24** – AR Watch Try-On using Unity & Vuforia
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanpathan-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpathan-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 
 ## 🌐 Connect With Me
 
 📧 Email: ayanpathan150150@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ayan-pathan-cse2025
-
----
-
-![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanpathan-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpathan-dev&layout=compact&theme=radical)
 
 ---
 
