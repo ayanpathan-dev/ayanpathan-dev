@@ -5,9 +5,15 @@
 ---
 
 ## 🛠 Skills
-- **Languages:** C, C++, Java, SQL, Python  
+- **Languages:** C, C++, Java, SQL, Python ,C# 
 - **Web Development:** HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MySQL
-- **AR/3D Development:** Unity, Vuforia, Blender  
+- **AR/3D Development:** Unity, Vuforia, Blender
+- **Programming Languages :** Java, C++, Python, JavaScript, C#
+- **Frontend Technologies :** HTML5, CSS3, React.js
+- **Backend Technologies :** Node.js, Express.js, Spring Framework, Spring Boot, JDBC Template, ASP.NET Core (.NET)
+- **Database :** MySQL
+- **Full Stack Development :** RESTful APIs, MVC Architecture, CRUD Operations, Client–Server Applications
+- **Tools and Concepts :** Git, GitHub, Object Oriented Programming (OOP), Database Management Systems (DBMS), API Integration, Authentication & Authorization
 
 ---
 
