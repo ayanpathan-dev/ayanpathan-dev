@@ -19,8 +19,19 @@
 
 ## 📂 Projects
 - **CryptoTrace – Cryptocurrency Fraud Detection System**  
-  ML-based fraud detection system for Bitcoin & Ethereum using Random Forest, APIs, and Tkinter.  
+  Cryptotrace is a real-time cryptocurrency fraud detection tool that analyzes blockchain transactions and identifies
+suspicious patterns using machine learning. The objective is to assist digital investigations through automated
+monitoring, anomaly detection, and report generation. Built using python, ml libraries, blockchain apis, and sqlite.
+Future scope includes multi-chain support, advanced ai models, and cloud integration  
   🏆 *Smart India Hackathon 2024 – Runner-up (Problem ID: SIH1783)*  
+
+- **FlavorQuest - Smart Recipe Finder**
+Smart Recipe Finder is a scalable full-stack web application designed to help users discover, search, and manage
+recipes efficiently. The system provides advanced recipe search, detailed ingredient and nutrition information,
+personalized favorites, shopping list management, and secure user authentication using JWT. The backend is
+developed using ASP.NET Core Web API with Entity Framework Core and integrated with Spring Boot for JWTbased authentication, while the frontend is built with React.js to deliver a responsive and user-friendly interface.
+The application follows RESTful architecture, secure API design, and modular coding practices to ensure
+performance, scalability, and maintainability.
 
 - **Travel Website**  
   Responsive travel booking website using HTML, CSS, Bootstrap, and JavaScript.  
